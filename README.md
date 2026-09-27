@@ -25,10 +25,10 @@ A website assistant that visitors can type to or talk to. Both channels answer f
 `n8n` `Supabase pgvector` `Gemini embeddings` `ElevenLabs` `HubSpot`
 
 ### 📈 [SEO case study: local dermatology clinic](https://github.com/surya-upputuru/Seo-Case-Study)
-Ongoing local SEO for a skin and hair clinic in Nellore, targeting high-intent searches like "dermatologist in Nellore".
-- **28,900 impressions and 365 clicks** in 3 months (Google Search Console)
-- **Average position 9.4** across all queries (bottom of page one on average)
-- Technical and on-page fixes, with Search Console monitored weekly
+Ongoing local SEO for a skin and hair clinic in Nellore, targeting high-intent searches like "dermatologist in Nellore". Compares Jan–Mar 2026 with Apr–Jul 2026 (Google Search Console):
+- **+62% impressions per month** (4,350 → 7,070)
+- **+30% clicks per month** (81 → 105)
+- **Average position 10.6 → 9.8**
 
 `Technical SEO` `Local SEO` `Google Search Console` `On-page optimisation`
 
