@@ -27,7 +27,7 @@ A website assistant that visitors can type to or talk to. Both channels answer f
 ### 📈 [SEO case study: local dermatology clinic](https://github.com/surya-upputuru/Seo-Case-Study)
 Ongoing local SEO for a skin and hair clinic in Nellore, targeting high-intent searches like "dermatologist in Nellore".
 - **28,900 impressions and 365 clicks** in 3 months (Google Search Console)
-- **Average position 9.4**, which is page one across the tracked queries
+- **Average position 9.4** across all queries (bottom of page one on average)
 - Technical and on-page fixes, with Search Console monitored weekly
 
 `Technical SEO` `Local SEO` `Google Search Console` `On-page optimisation`
